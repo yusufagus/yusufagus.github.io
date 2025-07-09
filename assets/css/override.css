@@ -1,3 +1,11 @@
+body {
+  font-size: 45% !important;
+}
+
+html {
+  font-size: 7.5px !important;
+}
+
 .author__avatar img {
   width: 180px !important;
   height: 180px !important;
@@ -8,12 +16,4 @@
 .sidebar {
   width: 320px !important;
   min-width: 320px !important;
-}
-
-body {
-  font-size: 90% !important;
-}
-
-html {
-  font-size: 15px !important;
 } 
