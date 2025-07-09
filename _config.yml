@@ -61,6 +61,7 @@ defaults:
 
 # Reading Files
 include:
+  - assets/css/override.css
   - _pages
   - .htaccess
 
@@ -90,3 +91,7 @@ exclude:
   - Rakefile
   - README
   - tmp 
+
+# Custom CSS override
+sass:
+  style: compressed 
