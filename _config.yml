@@ -30,6 +30,12 @@ author:
     - label: "Email (Gmail)"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yusufagus@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yusufagus/"
+    - label: "EUI Page"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.eui.eu/people?id=yusuf-agus"
 
 # Site Footer
 footer:
