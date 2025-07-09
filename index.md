@@ -9,4 +9,3 @@ I am a fifth-year PhD student in the Department of Economics at the European Uni
 
 My research interests are in economics of education, social networks, and field experiments. 
 
-# Update
