@@ -1,4 +1,4 @@
-/* Override styles to hide footer */
+/* Hide footer */
 footer.page__footer,
 .page__footer,
 div.page__footer,
@@ -6,25 +6,14 @@ footer,
 .site-footer,
 footer.site-footer {
   display: none !important;
-  height: 0 !important;
-  visibility: hidden !important;
-  margin: 0 !important;
-  padding: 0 !important;
-  border: none !important;
 }
 
+/* Hide recent posts section */
 #recent-posts, .recent-posts, .archive__subtitle {
   display: none !important;
 }
 
-body {
-  font-size: 90% !important;
-}
-
-html {
-  font-size: 16px !important;
-}
-
+/* Keep custom avatar size */
 .author__avatar img {
   width: 180px !important;
   height: 180px !important;
@@ -32,65 +21,7 @@ html {
   border-radius: 50%;
 }
 
+/* Keep custom sidebar width */
 .sidebar {
   width: 320px !important;
-  min-width: 320px !important;
-}
-
-/* Fix spacing issues */
-.page__content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-.page__title {
-  margin-top: 0 !important;
-}
-
-.page__inner-wrap {
-  margin-top: 0 !important;
-  padding-top: 0.5em !important;
-}
-
-.page {
-  padding-top: 0 !important;
-  margin-top: 0 !important;
-}
-
-.initial-content {
-  margin-top: 0 !important;
-  padding-top: 0 !important;
-}
-
-/* Additional spacing fixes */
-#main {
-  margin-top: 0 !important;
-  padding-top: 0.5em !important;
-}
-
-.masthead {
-  margin-bottom: 0 !important;
-  border-bottom: 1px solid #f2f3f3;
-}
-
-.greedy-nav {
-  margin-bottom: 0 !important;
-}
-
-.masthead__inner-wrap {
-  padding-top: 0.5em !important;
-  padding-bottom: 0.5em !important;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  margin-top: 0.5em !important;
-  margin-bottom: 0.5em !important;
-}
-
-p {
-  margin-bottom: 0.75em !important;
-}
-
-.archive__item-title {
-  margin-top: 0.5em !important;
 } 

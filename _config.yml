@@ -93,8 +93,4 @@ exclude:
 
 # Custom CSS override
 sass:
-  style: compressed 
-
-# Custom settings
-footer:
-  hide: true
+  style: compressed
