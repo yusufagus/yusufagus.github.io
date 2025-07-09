@@ -1,9 +1,8 @@
 ---
 layout: home
 author_profile: true
+hide_recent_posts: true
 ---
-
-# Welcome!
 
 I am a fifth-year PhD student in the Department of Economics at the European University Institute. My advisors are Sule Alan and Alessandro Tarozzi. 
 
