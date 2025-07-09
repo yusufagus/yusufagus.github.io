@@ -5,7 +5,7 @@ title: "Research"
 
 ## Working Papers
 
-• **The Impact of COVID-19 on Peer Relationships: Insights from Classroom Social Networks**  
+• [**The Impact of COVID-19 on Peer Relationships: Insights from Classroom Social Networks**](/assets/papers/peer_covid_agus_turkum.pdf)  
   _with [Betul Turkum](https://sites.google.com/view/betulturkum)_
 
   <details>
