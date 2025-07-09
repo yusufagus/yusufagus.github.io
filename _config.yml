@@ -21,7 +21,7 @@ plugins:
 # Site Author
 author:
   name: "Yusuf Agus"
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/profile_square.jpeg"
   location: "Florence, Italy"
   links:
     - label: "Email (EUI)"
