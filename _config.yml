@@ -67,9 +67,9 @@ defaults:
 
 # Reading Files
 include:
-  - assets/css/override.css
   - _pages
   - .htaccess
+  - assets/css/override.css
 
 # Exclude from processing
 exclude:
