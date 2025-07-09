@@ -13,6 +13,12 @@ footer.site-footer {
   display: none !important;
 }
 
+/* Increase the side margins for main content area to 150px */
+.wrapper, .page__main, .page-content {
+  margin-left: 150px !important;
+  margin-right: 150px !important;
+}
+
 /* Keep custom avatar size */
 .author__avatar img {
   width: 180px !important;
@@ -21,7 +27,62 @@ footer.site-footer {
   border-radius: 50%;
 }
 
-/* Keep custom sidebar width */
+/* Make sidebar smaller */
 .sidebar {
-  width: 320px !important;
-} 
+  width: 180px !important;
+}
+
+/* Reduce vertical space for Minimal Mistakes homepage author profile */
+.page__hero,
+.page__hero--overlay {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+
+/* Reduce vertical space above and below author profile card on homepage */
+.author__profile {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Optionally, reduce space for avatar and name */
+.author__avatar {
+  margin-bottom: 10px !important;
+}
+.author__content {
+  margin-bottom: 0 !important;
+}
+
+/* Add spacing below <details> elements for research page abstracts */
+details {
+  margin-bottom: 2em !important;
+}
+
+/* Make all text inside <details> (except <summary>) italic and smaller for abstracts */
+details {
+  font-style: italic !important;
+  font-size: 0.75em !important;
+}
+
+/* Make abstract text inside <details> smaller and italic, even if wrapped in <p> */
+details > p,
+details > *:not(summary) > p {
+  font-size: 0.9em !important;
+  font-style: italic !important;
+}
+
+/* Reduce base font size for the entire site */
+body {
+  font-size: 16px !important;
+}
+
+/* Remove top margin from first heading or paragraph on homepage */
+.home h1:first-child,
+.home h2:first-child,
+.home p:first-child {
+  margin-top: 0 !important;
+}
