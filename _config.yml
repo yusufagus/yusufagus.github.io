@@ -37,13 +37,6 @@ author:
       icon: "fas fa-fw fa-university"
       url: "https://www.eui.eu/people?id=yusuf-agus"
 
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yusufagus"
-
 # Defaults
 defaults:
   # _posts
