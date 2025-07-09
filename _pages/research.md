@@ -3,18 +3,11 @@ permalink: /research/
 title: "Research"
 ---
 
-## Research Interests
+## Working Papers
 
-- Interest 1
-- Interest 2
-- Interest 3
+1. The Impact of Covid-19 on Peer Relationships: Insights from Classroom Social Networks
 
-## Current Projects
+## Work in Progress
 
-1. **Project 1**: Brief description
-2. **Project 2**: Brief description
-
-## Selected Publications
-
-1. Author(s). (Year). "Title of the paper." *Journal Name*, Volume(Issue), Pages. [DOI]
-2. Author(s). (Year). "Title of the paper." *Journal Name*, Volume(Issue), Pages. [DOI] 
+1. Peer Ability and Dynamics of Classrooms
+2. Understanding Teacher Quality

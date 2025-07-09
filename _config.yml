@@ -1,12 +1,12 @@
-title: Your Name
-email: your.email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Academic website showcasing research, publications, and teaching experience.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yusufagus.github.io" # the base hostname & protocol for your site
-twitter_username: # your Twitter username
+title: Yusuf Agus
+email: yusuf.agus@eui.eu
+description: >-
+  Personal academic website for Yusuf Agus.
+baseurl: ""
+url: "https://yusufagus.github.io"
+twitter_username: 
 github_username: yusufagus
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "default"
 
 # Build settings
 markdown: kramdown
@@ -20,20 +20,16 @@ plugins:
 
 # Site Author
 author:
-  name: "Your Name"
+  name: "Yusuf Agus"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Your bio here. Academic position, research interests, etc."
-  location: "Your Location"
+  location: "Florence, Italy"
   links:
-    - label: "Email"
+    - label: "Email (EUI)"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.email@example.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yusufagus"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=YOUR_ID"
+      url: "mailto:yusuf.agus@eui.eu"
+    - label: "Email (Gmail)"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:yusufagus@gmail.com"
 
 # Site Footer
 footer:

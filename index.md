@@ -3,18 +3,8 @@ layout: home
 author_profile: true
 ---
 
-# Welcome to My Academic Website
+# Welcome!
 
-I am a [Your Position] at [Your Institution], specializing in [Your Research Areas].
+I am a fifth-year PhD student in the Department of Economics at the European University Institute. My advisors are Sule Alan and Alessandro Tarozzi. 
 
-## Research Interests
-
-- Interest 1
-- Interest 2
-- Interest 3
-
-## Recent News
-
-- [Date] - News item 1
-- [Date] - News item 2
-- [Date] - News item 3 
+My research interests are in economics of education, social networks, and field experiments. 
