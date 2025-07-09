@@ -1,3 +1,7 @@
+#recent-posts, .recent-posts, .archive__subtitle {
+  display: none !important;
+}
+
 body {
   font-size: 15% !important;
 }
@@ -14,6 +18,6 @@ html {
 }
 
 .sidebar {
-  width: 500px !important;
+  width: 320px !important;
   min-width: 320px !important;
 } 
