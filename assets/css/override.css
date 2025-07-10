@@ -127,7 +127,7 @@ body {
     width: 120px !important;
     height: 120px !important;
     border-radius: 50% !important;
-    /* Removed aspect-ratio and object-fit to prevent oval distortion */
+    object-fit: cover !important;
     display: block !important;
     margin: 0 auto !important;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
