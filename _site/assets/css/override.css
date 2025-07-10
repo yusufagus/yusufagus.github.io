@@ -111,21 +111,26 @@ body {
     display: flex !important;
     flex-direction: column !important;
     align-items: center !important;
+    justify-content: flex-start !important;
     text-align: center !important;
+    gap: 0 !important;
+    margin-bottom: 20px !important;
   }
   .author__avatar {
-    margin: 0 auto 10px auto !important;
+    flex: 0 0 auto !important;
+    margin: 0 0 10px 0 !important;
     display: flex !important;
+    align-items: center !important;
     justify-content: center !important;
   }
   .author__avatar img {
     width: 120px !important;
-    height: auto !important;
+    height: 120px !important;
     border-radius: 50% !important;
+    object-fit: cover !important;
     display: block !important;
-    margin: 0 auto !important;
-    object-fit: contain !important;
-    max-width: 90vw !important;
+    margin: 0 !important;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
   }
   .author__content,
   .author__bio,
@@ -133,7 +138,7 @@ body {
   .author__urls-wrapper,
   .author__urls {
     text-align: center !important;
-    margin: 0 auto !important;
+    margin: 0 !important;
     width: 100% !important;
   }
   .author__urls-wrapper {
