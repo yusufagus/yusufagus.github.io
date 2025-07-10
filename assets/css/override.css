@@ -119,12 +119,13 @@ body {
     justify-content: center !important;
   }
   .author__avatar img {
-    width: 100px !important;
-    height: 100px !important;
+    width: 120px !important;
+    height: auto !important;
     border-radius: 50% !important;
-    object-fit: cover !important;
     display: block !important;
     margin: 0 auto !important;
+    object-fit: contain !important;
+    max-width: 90vw !important;
   }
   .author__content,
   .author__bio,
