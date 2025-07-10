@@ -125,12 +125,15 @@ body {
   }
   .author__avatar img {
     width: 120px !important;
-    height: 120px !important;
+    max-width: 90vw !important;
+    height: auto !important;
+    aspect-ratio: 1 / 1 !important;
     border-radius: 50% !important;
-    object-fit: cover !important;
+    object-fit: contain !important;
     display: block !important;
-    margin: 0 !important;
+    margin: 0 auto !important;
     box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    background: #fff;
   }
   .author__content,
   .author__bio,
