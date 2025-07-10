@@ -107,10 +107,35 @@ body {
   details {
     font-size: 0.95em !important;
   }
+  .author__profile {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    text-align: center !important;
+  }
+  .author__avatar {
+    margin: 0 auto 10px auto !important;
+    display: flex !important;
+    justify-content: center !important;
+  }
   .author__avatar img {
     width: 100px !important;
     height: 100px !important;
-    display: block;
-    margin: 0 auto 10px auto !important;
+    border-radius: 50% !important;
+    object-fit: cover !important;
+    display: block !important;
+    margin: 0 auto !important;
+  }
+  .author__content,
+  .author__bio,
+  .author__name,
+  .author__urls-wrapper,
+  .author__urls {
+    text-align: center !important;
+    margin: 0 auto !important;
+    width: 100% !important;
+  }
+  .author__urls-wrapper {
+    justify-content: center !important;
   }
 }
