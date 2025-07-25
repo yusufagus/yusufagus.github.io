@@ -22,5 +22,5 @@ title: "Research"
     This study examines the impact of peer ability on students’ cognitive skills and academic outcomes using a unique dataset from large-scale fieldwork in Turkish primary schools. Leveraging the random assignment of students to classrooms, I find that higher peer ability significantly enhances fluid intelligence, cognitive empathy, and math and verbal test scores. These effects emerge as early as the first grade and become more pronounced by the second grade. Investigating mechanisms, I show that peer ability shapes classroom social networks by increasing ability-based homophily without affecting the quantity or quality of social ties. Furthermore, I demonstrate that classroom ability influences the learning environment as teachers adapt their pedagogical practices.
 </details>
 
-• **Understanding Teacher Quality**  
+• **From Teacher Cognition to Student Reasoning: Development of Higher-Order Thinking in the Classroom**  
   _with [Sule Alan](https://www.sulealan.com)_
