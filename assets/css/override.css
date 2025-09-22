@@ -11,10 +11,10 @@ footer.site-footer {
 #recent-posts, .recent-posts, .archive__subtitle {
   display: none !important;
 }
-/* Increase the side margins for main content area to 150px */
+/* Optimize margins for main content area */
 .wrapper, .page__main, .page-content {
-  margin-left: 150px !important;
-  margin-right: 150px !important;
+  margin-left: 120px !important;
+  margin-right: 120px !important;
 }
 /* Keep custom avatar size */
 .author__avatar img {
@@ -23,9 +23,9 @@ footer.site-footer {
   max-width: 100% !important;
   border-radius: 50%;
 }
-/* Make sidebar smaller */
+/* Improve sidebar size */
 .sidebar {
-  width: 180px !important;
+  width: 220px !important;
 }
 /* Reduce vertical space for Minimal Mistakes homepage author profile */
 .page__hero,
@@ -51,22 +51,65 @@ footer.site-footer {
 }
 /* Add spacing below <details> elements for research page abstracts */
 details {
-  margin-bottom: 2em !important;
+  margin-bottom: 2.5em !important;
+  border-left: 3px solid #f0f0f0 !important;
+  padding-left: 1em !important;
+  transition: border-color 0.3s ease !important;
 }
-/* Make all text inside <details> (except <summary>) italic and smaller for abstracts */
+details:hover {
+  border-left-color: #007acc !important;
+}
+details summary {
+  cursor: pointer !important;
+  font-weight: bold !important;
+  margin-bottom: 0.5em !important;
+  color: #333 !important;
+}
+details summary:hover {
+  color: #007acc !important;
+}
+
+/* Improve research page section separation */
+.page__content h2 {
+  margin-top: 2em !important;
+  margin-bottom: 1em !important;
+  border-bottom: 2px solid #f0f0f0 !important;
+  padding-bottom: 0.5em !important;
+}
+
+/* Style horizontal rule for research page */
+.page__content hr {
+  margin: 3em 0 !important;
+  border: none !important;
+  border-top: 1px solid #e0e0e0 !important;
+}
+
+/* Improve link styling */
+.page__content a:not(.btn) {
+  color: #007acc !important;
+  text-decoration: none !important;
+  border-bottom: 1px solid transparent !important;
+  transition: border-color 0.3s ease !important;
+}
+.page__content a:not(.btn):hover {
+  border-bottom-color: #007acc !important;
+}
+/* Make abstract text inside <details> more readable */
 details {
-  font-style: italic !important;
-  font-size: 0.75em !important;
+  font-size: 0.9em !important;
+  line-height: 1.5 !important;
 }
-/* Make abstract text inside <details> smaller and italic, even if wrapped in <p> */
+/* Make abstract text inside <details> well-sized and readable, even if wrapped in <p> */
 details > p,
 details > *:not(summary) > p {
-  font-size: 0.9em !important;
-  font-style: italic !important;
+  font-size: 0.95em !important;
+  color: #666 !important;
+  margin-top: 0.5em !important;
 }
-/* Reduce base font size for the entire site */
+/* Improve base font size for the entire site */
 body {
-  font-size: 16px !important;
+  font-size: 17px !important;
+  line-height: 1.6 !important;
 }
 /* Remove top margin from first heading or paragraph on homepage */
 .home h1:first-child,

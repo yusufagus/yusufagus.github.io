@@ -6,7 +6,7 @@ baseurl: ""
 url: "https://yusufagus.github.io"
 twitter_username: 
 github_username: yusufagus
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air"
 
 # Build settings
 markdown: kramdown
