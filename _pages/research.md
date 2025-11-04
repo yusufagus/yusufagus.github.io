@@ -7,13 +7,9 @@ classes: "no-title"
 <div class="paper-box" markdown="1">
 **Peer Ability and Dynamics of Classrooms**
 
-
 _Job Market Paper_
 
-
-
 <span style="font-size: 0.87em;">This study examines how peer ability shapes students’ skill development and the social dynamics of classrooms. Leveraging the random assignment of students to classrooms in Turkish primary schools, I show that exposure to higher-ability classmates raises fluid intelligence, cognitive empathy, and academic achievement from the first grade onward. These gains emerge alongside shifts in how students form friendships: peer ability reshapes classroom networks, increasing homophily among high-ability students while reducing it among low-ability students, revealing social ties as a central mechanism through which peers influence skill development. These findings highlight that the effects of peers extend beyond test scores to deeper cognitive abilities, and that the structure of students’ social networks is a key channel through which classroom composition matters for learning.</span>
-
 </div>
 
 <div class="paper-box" markdown="1">
@@ -24,7 +20,7 @@ _with [Sule Alan](https://www.sulealan.com)_
 </div>
 
 <div class="paper-box" markdown="1">
-[**The Impact of COVID-19 on Peer Relationships: Insights from Classroom Social Networks**](/assets/papers/peer_covid_agus_turkum.pdf)  
+**[The Impact of COVID-19 on Peer Relationships: Insights from Classroom Social Networks](/assets/papers/peer_covid_agus_turkum.pdf)**  
 _with [Betul Turkum](https://sites.google.com/view/betulturkum)_
 
 _R&R at Journal of Economic Behavior and Organization_
