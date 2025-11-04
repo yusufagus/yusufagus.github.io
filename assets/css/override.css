@@ -148,8 +148,11 @@ body {
   margin-bottom: 2em;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-  width: calc(100% + 100px); /* Extend box width */
-  margin-left: -50px;      /* Center the extended box */
-  padding-left: 50px;      /* Re-align content inside */
-  padding-right: 50px;     /* Add padding on the right */
+  width: calc(100% + 120px); /* Extend box width to the right */
+  margin-left: 0;           /* Align to the left edge of content area */
+  padding-right: 2em;      /* Ensure padding on the right */
+}
+
+.paper-box p em {
+  font-size: 14px !important; /* Reduce font size for abstract */
 }
