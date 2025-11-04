@@ -3,6 +3,7 @@ permalink: /research/
 title: "Research"
 layout: single
 classes: "no-title"
+author_profile: false
 ---
 
 <div class="paper-box" markdown="1">
