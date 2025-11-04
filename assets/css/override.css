@@ -153,6 +153,6 @@ body {
   padding-right: 2em;      /* Ensure padding on the right */
 }
 
-.paper-box p em {
+.paper-box p:has(em) {
   font-size: 14px !important; /* Reduce font size for abstract */
 }
