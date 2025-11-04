@@ -13,7 +13,7 @@ footer.site-footer {
 }
 /* Increase the side margins for main content area to 150px */
 .wrapper, .page__main, .page-content {
-  margin-left: 150px !important;
+  margin-left: 35% !important;
   margin-right: 150px !important;
 }
 /* Keep custom avatar size */
@@ -26,9 +26,6 @@ footer.site-footer {
 /* Make sidebar smaller */
 .sidebar {
   width: 250px !important;
-  position: absolute;
-  left: 35%;
-  transform: translateX(-35%);
 }
 /* Reduce vertical space for Minimal Mistakes homepage author profile */
 .page__hero,
