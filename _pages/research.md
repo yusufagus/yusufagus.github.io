@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 <div class="paper-box" markdown="1">
-**Peer Ability and Dynamics of Classrooms** _Job Market Paper_
+**Peer Ability and Dynamics of Classrooms** _(Job Market Paper)_
 
 <span style="font-size: 0.87em;">This study examines how peer ability shapes students’ skill development and the social dynamics of classrooms. Leveraging the random assignment of students to classrooms in Turkish primary schools, I show that exposure to higher-ability classmates raises fluid intelligence, cognitive empathy, and academic achievement from the first grade onward. These gains emerge alongside shifts in how students form friendships: peer ability reshapes classroom networks, increasing homophily among high-ability students while reducing it among low-ability students, revealing social ties as a central mechanism through which peers influence skill development. These findings highlight that the effects of peers extend beyond test scores to deeper cognitive abilities, and that the structure of students’ social networks is a key channel through which classroom composition matters for learning.</span>
 </div>
@@ -19,7 +19,7 @@ author_profile: false
 </div>
 
 <div class="paper-box" markdown="1">
-<span style="font-size: 1.08em;">**The Impact of COVID-19 on Peer Relationships: Insights from Classroom Social Networks**<span><a href="/assets/papers/peer_covid_agus_turkum.pdf" class="pdf-button">Draft</a>  _with [Betul Turkum](https://sites.google.com/view/betulturkum)_  
+<span style="font-size: 1.08em;">**The Impact of COVID-19 on Peer Relationships: Insights from Classroom Social Networks**<span> _with [Betul Turkum](https://sites.google.com/view/betulturkum)_ <a href="/assets/papers/peer_covid_agus_turkum.pdf" class="pdf-button">Draft</a> 
 _R&R at Journal of Economic Behavior and Organization_
 
 <span style="font-size: 0.87em;">In the spring of 2020, as the COVID-19 pandemic swept across the globe, governments implemented drastic containment measures, including widespread school closures that deprived millions of children of their primary social environment—the classroom. To understand how the pandemic affected classroom peer relationships, we leverage social network data from 3rd and 4th-grade students in Turkish primary schools, comparing pre-pandemic and pandemic cohorts across three relationship types: friendship, academic support, and emotional support. We document opposing changes across network types: friendship isolation increased by 22%, while academic support nominations rose by 20%. These improvements in academic support were driven entirely by native students; refugee students faced deterioration in both friendship and academic support networks. Our findings show that large-scale disruptions can reshape peer relationships in complex ways, underscoring the vital role of the classroom in building social capital.</span>
