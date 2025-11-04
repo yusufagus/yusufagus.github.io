@@ -18,14 +18,14 @@ footer.site-footer {
 }
 /* Keep custom avatar size */
 .author__avatar img {
-  width: 180px !important;
-  height: 180px !important;
+  width: 100% !important;
+  height: auto !important;
   max-width: 100% !important;
-  border-radius: 50%;
+  border-radius: 0;
 }
 /* Make sidebar smaller */
 .sidebar {
-  width: 180px !important;
+  width: 250px !important;
 }
 /* Reduce vertical space for Minimal Mistakes homepage author profile */
 .page__hero,
