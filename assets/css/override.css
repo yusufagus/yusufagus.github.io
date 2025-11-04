@@ -156,3 +156,22 @@ body {
 .paper-box p:has(em) {
   font-size: 14px !important; /* Reduce font size for abstract */
 }
+/* PDF button styles */
+.pdf-button {
+  display: inline-block;
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.8em;
+  margin-left: 10px;
+  transition: background-color 0.2s;
+}
+
+.pdf-button:hover {
+  background-color: #e0e0e0;
+  color: #333;
+  text-decoration: none;
+}

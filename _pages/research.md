@@ -20,7 +20,7 @@ _with [Sule Alan](https://www.sulealan.com)_
 </div>
 
 <div class="paper-box" markdown="1">
-**[The Impact of COVID-19 on Peer Relationships: Insights from Classroom Social Networks](/assets/papers/peer_covid_agus_turkum.pdf)**  
+**The Impact of COVID-19 on Peer Relationships: Insights from Classroom Social Networks** <a href="/assets/papers/peer_covid_agus_turkum.pdf" class="pdf-button">PDF</a>  
 _with [Betul Turkum](https://sites.google.com/view/betulturkum)_
 
 _R&R at Journal of Economic Behavior and Organization_
