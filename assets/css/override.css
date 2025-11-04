@@ -13,8 +13,6 @@ footer.site-footer {
 }
 /* Increase the side margins for main content area to 150px */
 .wrapper, .page__main, .page-content {
-  margin-left: 150px !important;
-  margin-right: 150px !important;
 }
 /* Keep custom avatar size */
 .author__avatar img {
@@ -148,7 +146,7 @@ body {
   margin-bottom: 2em;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-  width: calc(100% + 120px); /* Extend box width to the right */
+  width: 100%; /* Extend box width to the right */
   margin-left: 0;           /* Align to the left edge of content area */
   padding-right: 2em;      /* Ensure padding on the right */
 }
