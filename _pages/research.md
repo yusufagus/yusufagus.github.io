@@ -5,7 +5,7 @@ classes: "no-title"
 ---
 
 <div class="paper-box" markdown="1">
-<span style="font-size: 0.95em;">**Peer Ability and Dynamics of Classrooms**<span>
+**Peer Ability and Dynamics of Classrooms**
 
 _Job Market Paper_
 
@@ -13,8 +13,8 @@ _Job Market Paper_
 </div>
 
 <div class="paper-box" markdown="1">
-**From Teacher Cognition to Student Reasoning: Development of Higher-Order Thinking in the Classroom**  
-_with [Sule Alan](https://www.sulealan.com)_
+<span style="font-size: 1.12em;"**From Teacher Cognition to Student Reasoning: Development of Higher-Order Thinking in the Classroom**  
+_with [Sule Alan](https://www.sulealan.com)_<span>
 
 <span style="font-size: 0.87em;">We investigate the impact of teachers’ intelligence on the development of children’s cognitive abilities. Our setting leverages the random assignment of first-grade students to teachers, who tend to remain their primary instructors across subjects for four years. We measure a wide range of outcomes: core cognitive functions (attention, working memory), foundational skills (numeracy, verbal ability), higher-order reasoning (abstract reasoning, analogical reasoning, analytical categorization, critical thinking), and socio-cognitive skills (cognitive empathy, norm-based reasoning). We find that teachers with high fluid intelligence substantially enhance children’s higher-order reasoning and socio-cognitive skills, alongside improvements in core cognition and literacy. We examine several potential mechanisms related to teaching style, beliefs, and attitudes. Beyond these, one striking channel emerges: teachers with higher intelligence foster denser and more cohesive classroom friendship networks, which in turn support peer-to-peer learning without reinforcing ability-based segregation. These findings demonstrate that teacher intelligence shapes the development of higher-order reasoning and socio-cognitive capacities, which are central to the formation of human and social capital.</span>
 </div>
