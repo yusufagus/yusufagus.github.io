@@ -6,8 +6,8 @@ classes: "no-title"
 
 <div class="paper-box" markdown="1">
 **Peer Ability and Dynamics of Classrooms**
-
-This study examines how peer ability shapes students’ skill development and the social dynamics of classrooms. Leveraging the random assignment of students to classrooms in Turkish primary schools, I show that exposure to higher-ability classmates raises fluid intelligence, cognitive empathy, and academic achievement from the first grade onward. These gains emerge alongside shifts in how students form friendships: peer ability reshapes classroom networks, increasing homophily among high-ability students while reducing it among low-ability students, revealing social ties as a central mechanism through which peers influence skill development. These findings highlight that the effects of peers extend beyond test scores to deeper cognitive abilities, and that the structure of students’ social networks is a key channel through which classroom composition matters for learning.
+_Job Market Paper_
+<span style="font-size: 0.85em;">This study examines how peer ability shapes students’ skill development and the social dynamics of classrooms. Leveraging the random assignment of students to classrooms in Turkish primary schools, I show that exposure to higher-ability classmates raises fluid intelligence, cognitive empathy, and academic achievement from the first grade onward. These gains emerge alongside shifts in how students form friendships: peer ability reshapes classroom networks, increasing homophily among high-ability students while reducing it among low-ability students, revealing social ties as a central mechanism through which peers influence skill development. These findings highlight that the effects of peers extend beyond test scores to deeper cognitive abilities, and that the structure of students’ social networks is a key channel through which classroom composition matters for learning.</span>
 </div>
 
 <div class="paper-box" markdown="1">
