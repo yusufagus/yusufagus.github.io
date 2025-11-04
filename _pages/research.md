@@ -24,6 +24,7 @@ _with [Sule Alan](https://www.sulealan.com)_<span>
 <div class="paper-box" markdown="1">
 <span style="font-size: 1.08em;">**The Impact of COVID-19 on Peer Relationships: Insights from Classroom Social Networks**<span> 
 _with [Betul Turkum](https://sites.google.com/view/betulturkum)_
+
 <a href="/assets/papers/peer_covid_agus_turkum.pdf" class="pdf-button">Draft</a>  
 _R&R at Journal of Economic Behavior and Organization_
 

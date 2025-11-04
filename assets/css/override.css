@@ -26,6 +26,9 @@ footer.site-footer {
 /* Make sidebar smaller */
 .sidebar {
   width: 250px !important;
+  position: absolute;
+  left: 35%;
+  transform: translateX(-35%);
 }
 /* Reduce vertical space for Minimal Mistakes homepage author profile */
 .page__hero,
