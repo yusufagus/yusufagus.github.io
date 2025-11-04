@@ -5,7 +5,7 @@ classes: "no-title"
 ---
 
 <div class="paper-box" markdown="1">
-**Peer Ability and Dynamics of Classrooms**
+<span style="font-size: 0.95em;">**Peer Ability and Dynamics of Classrooms**<span>
 
 _Job Market Paper_
 
