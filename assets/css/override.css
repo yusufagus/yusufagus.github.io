@@ -74,6 +74,10 @@ body {
 .home p:first-child {
   margin-top: 0 !important;
 }
+/* Hide page title on pages with the 'no-title' class */
+.no-title .page__title {
+  display: none;
+}
 /* Responsive adjustments for mobile */
 @media (max-width: 600px) {
   .wrapper, .page__main, .page-content {
