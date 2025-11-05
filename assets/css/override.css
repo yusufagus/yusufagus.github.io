@@ -140,29 +140,8 @@ body {
   .author__urls-wrapper {
     justify-content: center !important;
   }
-
-  .paper-box {
-    width: 100%;
-    left: 0;
-    transform: none;
-  }
-}
-/* Style for paper-box class */
-.paper-box {
-  border: 1px solid #e0e0e0;
-  padding: 1.5em;
-  margin-bottom: 2em;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-  width: 175%;
-  position: relative;
-  left: 50%;
-  transform: translateX(-50%);
 }
 
-.paper-box p:has(em) {
-  font-size: 14px !important; /* Reduce font size for abstract */
-}
 /* PDF button styles */
 .pdf-button {
   display: inline-block;
@@ -181,4 +160,24 @@ body {
   background-color: #e0e0e0;
   color: #333;
   text-decoration: none;
+}
+
+/* Style for paper-box class (Mobile First) */
+.paper-box {
+  border: 1px solid #e0e0e0;
+  padding: 1.5em;
+  margin-bottom: 2em;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  width: 100%;
+}
+
+/* Desktop-specific styles for paper-box */
+@media (min-width: 601px) {
+  .paper-box {
+    width: 175%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
 }
