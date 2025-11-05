@@ -140,6 +140,12 @@ body {
   .author__urls-wrapper {
     justify-content: center !important;
   }
+
+  .paper-box {
+    width: 100%;
+    left: 0;
+    transform: none;
+  }
 }
 /* Style for paper-box class */
 .paper-box {
