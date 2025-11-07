@@ -7,7 +7,7 @@ author_profile: false
 ---
 
 <div class="paper-box" markdown="1">
-**Peer Ability and Dynamics of Classrooms** 
+<span style="font-size: 1.04em;">**Peer Ability and Dynamics of Classrooms**<span>
 
 <span style="font-size: 0.87em;">Classrooms are social ecosystems where peer interactions shape the basis of learning. While this basis of learning is often viewed through the lens of academic achievement, this study examines how peer ability shapes the foundational cognitive skills and social dynamics of classrooms. I show that starting from as early as first grade, exposure to higher-ability classmates raises fluid intelligence and cognitive empathy, skills that are essential for learning and social understanding. These gains are not uniform: students who entered school with stronger initial ability benefit more from their high-ability peers. This divergence emerges alongside shifts in how students form friendships: peer ability reshapes classroom networks asymmetrically: high-ability students increasingly reinforce homophilic ties, while low-ability students initially integrate before this tendency fades. These findings highlight that peer ability effects extend beyond test scores to foundational cognitive skills, and that the structure of students’ social networks plays a pivotal role in how classroom composition matters for learning.</span>
 </div>
