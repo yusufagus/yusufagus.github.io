@@ -188,8 +188,13 @@ body {
 
 /* Paper entries */
 .paper {
-  margin-bottom: 2.6em;
+  margin-bottom: 2.2em;
   width: 100%;
+}
+/* Dashed rule between consecutive entries; none before the first in a section */
+.paper + .paper {
+  border-top: 1px dashed var(--rule);
+  padding-top: 2.2em;
 }
 .paper-title,
 .paper-meta,
