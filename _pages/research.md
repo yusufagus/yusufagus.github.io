@@ -32,7 +32,7 @@ We study how teacher ability, measured by fluid intelligence, shapes student lea
 <div class="paper" markdown="1">
 <span class="paper-title">COVID-19 and Peer Relationships: Insights from Classroom Social Networks</span>
 <span class="paper-meta">with [Betul Turkum](https://sites.google.com/view/betulturkum)</span>
-<span class="paper-venue">[Journal of Economic Behavior & Organization, 248, 107661.](https://doi.org/10.1016/j.jebo.2026.107661)</span>
+<span class="paper-venue">[Journal of Economic Behavior & Organization, 248 (August 2026), 107661.](https://doi.org/10.1016/j.jebo.2026.107661)</span>
 
 <details markdown="1">
 <summary>Abstract</summary>
