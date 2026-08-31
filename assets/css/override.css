@@ -180,7 +180,7 @@ body {
   color: var(--accent);
   margin: 3em 0 1.4em;
   padding-bottom: 0.7em;
-  border-bottom: 1px solid var(--rule);
+  border-bottom: 1px solid var(--accent);
 }
 .page__content h2:first-of-type {
   margin-top: 0.5em;
