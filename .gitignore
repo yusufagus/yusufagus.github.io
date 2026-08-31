@@ -1,3 +1,5 @@
 .DS_Store
 vendor/
 .jekyll-metadata
+_site/
+.Rhistory
