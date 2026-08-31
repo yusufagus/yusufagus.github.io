@@ -163,3 +163,45 @@ body {
     transform: translateX(-50%);
   }
 }
+
+/* Section headings on the research page */
+.page__content h2 {
+  font-size: 1.15em;
+  margin: 1.8em 0 0.8em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid #e0e0e0;
+}
+.page__content h2:first-of-type {
+  margin-top: 0;
+}
+
+/* Collapsible abstracts inside paper boxes */
+.paper-box details {
+  margin-top: 0.6em;
+}
+.paper-box summary {
+  cursor: pointer;
+  display: inline-block;
+  font-size: 0.85em;
+  color: #6b6b6b;
+  list-style: none;
+  user-select: none;
+}
+.paper-box summary::-webkit-details-marker {
+  display: none;
+}
+.paper-box summary::before {
+  content: "\25B8\00a0";
+  display: inline-block;
+  transition: transform 0.15s ease;
+}
+.paper-box details[open] summary::before {
+  content: "\25BE\00a0";
+}
+.paper-box summary:hover {
+  color: #000;
+}
+.paper-box details > p {
+  margin-top: 0.6em;
+  margin-bottom: 0;
+}
