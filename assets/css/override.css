@@ -144,19 +144,15 @@ body {
   text-decoration: none;
 }
 
-/* Style for paper-box class (Mobile First) */
-.paper-box {
-  border: 1px solid #e0e0e0;
-  padding: 1.5em;
-  margin-bottom: 2em;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+/* Paper entries (Mobile First) */
+.paper {
+  margin-bottom: 2.25em;
   width: 100%;
 }
 
-/* Desktop-specific styles for paper-box */
+/* Desktop: widen entries to match the section headings */
 @media (min-width: 601px) {
-  .paper-box {
+  .paper {
     width: 175%;
     position: relative;
     left: 50%;
@@ -176,10 +172,10 @@ body {
 }
 
 /* Collapsible abstracts inside paper boxes */
-.paper-box details {
+.paper details {
   margin-top: 0.6em;
 }
-.paper-box summary {
+.paper summary {
   cursor: pointer;
   display: inline-block;
   font-size: 0.85em;
@@ -187,21 +183,21 @@ body {
   list-style: none;
   user-select: none;
 }
-.paper-box summary::-webkit-details-marker {
+.paper summary::-webkit-details-marker {
   display: none;
 }
-.paper-box summary::before {
+.paper summary::before {
   content: "\25B8\00a0";
   display: inline-block;
   transition: transform 0.15s ease;
 }
-.paper-box details[open] summary::before {
+.paper details[open] summary::before {
   content: "\25BE\00a0";
 }
-.paper-box summary:hover {
+.paper summary:hover {
   color: #000;
 }
-.paper-box details > p {
+.paper details > p {
   margin-top: 0.6em;
   margin-bottom: 0;
 }

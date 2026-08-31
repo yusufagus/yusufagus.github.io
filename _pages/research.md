@@ -6,9 +6,9 @@ classes: "no-title"
 author_profile: false
 ---
 
-## Working Papers
+## Work in Progress
 
-<div class="paper-box" markdown="1">
+<div class="paper" markdown="1">
 <span style="font-size: 1.04em;">**Peer Ability and Dynamics of Classrooms**</span>
 
 <details markdown="1">
@@ -17,7 +17,7 @@ author_profile: false
 </details>
 </div>
 
-<div class="paper-box" markdown="1">
+<div class="paper" markdown="1">
 <span style="font-size: 1.04em;">**From Teacher Intelligence to Student Reasoning: Development of Cognitive and Higher-Order Thinking Skills in the Classroom**</span><br>
 _with [Sule Alan](https://www.sulealan.com)_
 
@@ -29,7 +29,7 @@ _with [Sule Alan](https://www.sulealan.com)_
 
 ## Publications
 
-<div class="paper-box" markdown="1">
+<div class="paper" markdown="1">
 <span style="font-size: 1.04em;">**COVID-19 and Peer Relationships: Insights from Classroom Social Networks**</span><br> 
 _with [Betul Turkum](https://sites.google.com/view/betulturkum)_<br>
 [_Journal of Economic Behavior & Organization, 248, 107661._](https://doi.org/10.1016/j.jebo.2026.107661)
