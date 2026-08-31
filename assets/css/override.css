@@ -270,14 +270,20 @@ body {
   }
 }
 
-/* Navigation carries the section accent */
-.masthead__menu-item a,
-.author__urls a {
+/* Masthead navigation carries the section accent */
+.masthead__menu-item a {
   color: var(--accent);
 }
-.masthead__menu-item a:hover,
-.author__urls a:hover {
+.masthead__menu-item a:hover {
   color: #24565f;
+}
+
+/* Sidebar profile links follow the content link colour */
+.author__urls a {
+  color: var(--link);
+}
+.author__urls a:hover {
+  color: var(--link-hover);
 }
 
 /* Content links: distinct from the accent, deliberately low-key.
