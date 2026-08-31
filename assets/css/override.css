@@ -166,7 +166,6 @@ body {
    ============================================================ */
 
 :root {
-  --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
   --accent: #2f6f7e;
   --muted: #6f6f6f;
   --rule: #dedede;
@@ -174,10 +173,9 @@ body {
 
 /* Section labels: small, letterspaced, quiet */
 .page__content h2 {
-  font-family: var(--mono);
-  font-size: 0.72em;
-  font-weight: 600;
-  letter-spacing: 0.16em;
+  font-size: 0.95em;
+  font-weight: 700;
+  letter-spacing: 0.09em;
   text-transform: uppercase;
   color: var(--accent);
   margin: 3em 0 1.4em;
@@ -221,10 +219,9 @@ body {
 .paper summary {
   cursor: pointer;
   display: inline-block;
-  font-family: var(--mono);
-  font-size: 0.68em;
+  font-size: 0.76em;
   font-weight: 600;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--muted);
   list-style: none;
@@ -245,9 +242,8 @@ body {
   color: #111;
 }
 
-/* Abstract body: kept to a readable measure, marked by a left rule */
+/* Abstract body: full column width, marked by a left rule */
 .paper details > p {
-  max-width: 44em;
   margin: 0.9em 0 0;
   padding-left: 1.2em;
   border-left: 2px solid var(--rule);
