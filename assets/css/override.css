@@ -160,26 +160,73 @@ body {
   }
 }
 
-/* Section headings on the research page */
-.page__content h2 {
-  font-size: 1.15em;
-  margin: 1.8em 0 0.8em;
-  padding-bottom: 0.25em;
-  border-bottom: 1px solid #e0e0e0;
-}
-.page__content h2:first-of-type {
-  margin-top: 0;
+
+/* ============================================================
+   Research page: typographic listing
+   ============================================================ */
+
+:root {
+  --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  --accent: #2f6f7e;
+  --muted: #6f6f6f;
+  --rule: #dedede;
 }
 
-/* Collapsible abstracts inside paper boxes */
+/* Section labels: small, letterspaced, quiet */
+.page__content h2 {
+  font-family: var(--mono);
+  font-size: 0.72em;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 3em 0 1.4em;
+  padding-bottom: 0.7em;
+  border-bottom: 1px solid var(--rule);
+}
+.page__content h2:first-of-type {
+  margin-top: 0.5em;
+}
+
+/* Paper entries */
+.paper {
+  margin-bottom: 2.6em;
+  width: 100%;
+}
+.paper-title,
+.paper-meta,
+.paper-venue {
+  display: block;
+}
+.paper-title {
+  font-size: 1.02em;
+  font-weight: 600;
+  line-height: 1.45;
+  margin-bottom: 0.15em;
+}
+.paper-meta,
+.paper-venue {
+  font-size: 0.9em;
+  line-height: 1.5;
+  color: var(--muted);
+}
+.paper-meta {
+  font-style: italic;
+}
+
+/* Abstract toggle */
 .paper details {
-  margin-top: 0.6em;
+  margin-top: 0.7em;
 }
 .paper summary {
   cursor: pointer;
   display: inline-block;
-  font-size: 0.85em;
-  color: #6b6b6b;
+  font-family: var(--mono);
+  font-size: 0.68em;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
   list-style: none;
   user-select: none;
 }
@@ -187,25 +234,33 @@ body {
   display: none;
 }
 .paper summary::before {
-  content: "\25B8\00a0";
-  display: inline-block;
-  transition: transform 0.15s ease;
+  content: "\25B8";
+  color: var(--accent);
+  margin-right: 0.7em;
 }
 .paper details[open] summary::before {
-  content: "\25BE\00a0";
+  content: "\25BE";
 }
 .paper summary:hover {
-  color: #000;
-}
-.paper details > p {
-  margin-top: 0.6em;
-  margin-bottom: 0;
+  color: #111;
 }
 
-/* Align section headings with the widened paper boxes on desktop */
+/* Abstract body: kept to a readable measure, marked by a left rule */
+.paper details > p {
+  max-width: 44em;
+  margin: 0.9em 0 0;
+  padding-left: 1.2em;
+  border-left: 2px solid var(--rule);
+  font-size: 0.88em;
+  line-height: 1.7;
+  color: #444;
+}
+
+/* Desktop: widen the column the listing sits in */
 @media (min-width: 601px) {
-  .page__content h2 {
-    width: 175%;
+  .page__content h2,
+  .paper {
+    width: 155%;
     position: relative;
     left: 50%;
     transform: translateX(-50%);
