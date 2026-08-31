@@ -167,6 +167,8 @@ body {
 
 :root {
   --accent: #2f6f7e;
+  --link: #8a4f5c;
+  --link-hover: #6d3c47;
   --muted: #6f6f6f;
   --rule: #dedede;
 }
@@ -266,4 +268,23 @@ body {
     left: 50%;
     transform: translateX(-50%);
   }
+}
+
+/* Navigation carries the section accent */
+.masthead__menu-item a,
+.author__urls a {
+  color: var(--accent);
+}
+.masthead__menu-item a:hover,
+.author__urls a:hover {
+  color: #24565f;
+}
+
+/* Content links: distinct from the accent, deliberately low-key */
+.page__content a {
+  color: var(--link);
+}
+.page__content a:hover,
+.page__content a:focus {
+  color: var(--link-hover);
 }
