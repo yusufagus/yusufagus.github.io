@@ -205,3 +205,13 @@ body {
   margin-top: 0.6em;
   margin-bottom: 0;
 }
+
+/* Align section headings with the widened paper boxes on desktop */
+@media (min-width: 601px) {
+  .page__content h2 {
+    width: 175%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
