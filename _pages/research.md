@@ -20,9 +20,9 @@ _with [Sule Alan](https://www.sulealan.com)_
 </div>
 
 <div class="paper-box" markdown="1">
-<span style="font-size: 1.04em;">**COVID-19 and Peer Relationships: Insights from Classroom Social Networks**</span> <a href="/assets/papers/peer_covid_agus_turkum.pdf" class="pdf-button">Draft</a><br> 
+<span style="font-size: 1.04em;">**COVID-19 and Peer Relationships: Insights from Classroom Social Networks**</span><br> 
 _with [Betul Turkum](https://sites.google.com/view/betulturkum)_<br>
-_Journal of Economic Behavior & Organization, 248, 107661._
+[_Journal of Economic Behavior & Organization, 248, 107661._](https://doi.org/10.1016/j.jebo.2026.107661)
 
 <span style="font-size: 0.87em;">In the spring of 2020, as the COVID-19 pandemic swept across the globe, governments implemented drastic containment measures, including widespread school closures that deprived millions of children of their primary social environment—the classroom. To understand how classroom peer relationships differed between the pre-pandemic and pandemic cohorts, we leverage social network data from 3rd and 4th-grade students in Turkish primary schools, comparing pre-pandemic and pandemic cohorts across three relationship types: friendship, academic support, and emotional support. We document opposing changes across network types: friendship isolation increased by 22%, while academic support nominations rose by 20%. These improvements in academic support were driven entirely by native students; refugee students faced deterioration in both friendship and academic support networks. Our findings show that large-scale disruptions can reshape peer relationships in complex ways, underscoring the vital role of the classroom in building social capital.</span>
 </div>
