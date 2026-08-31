@@ -280,11 +280,15 @@ body {
   color: #24565f;
 }
 
-/* Content links: distinct from the accent, deliberately low-key */
-.page__content a {
+/* Content links: distinct from the accent, deliberately low-key.
+   .archive covers the home layout, .page__content the regular pages. */
+.page__content a,
+.archive a {
   color: var(--link);
 }
 .page__content a:hover,
-.page__content a:focus {
+.page__content a:focus,
+.archive a:hover,
+.archive a:focus {
   color: var(--link-hover);
 }
