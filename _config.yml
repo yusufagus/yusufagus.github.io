@@ -33,9 +33,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yusuf-agu%C5%9F/"
-    - label: "Aalto Page"
-      icon: "fas fa-fw fa-university"
-      url: "https://www.aalto.fi/en/department-of-economics/yusuf-agus"
 
 # Defaults
 defaults:
