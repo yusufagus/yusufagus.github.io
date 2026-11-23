@@ -7,7 +7,7 @@ entries_layout: none
 
 **Welcome!**
 
-I am a postdoctoral researcher in the [Department of Economics](https://www.aalto.fi/en/department-of-economics) at Aalto University. I received my PhD from the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in November 2026, where my advisors were [Sule Alan](https://www.sulealan.com) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/).
+I am a postdoctoral researcher in the Department of Economics at [Aalto University](https://www.aalto.fi/en). I received my PhD from the [European University Institute](https://www.eui.eu/en/academic-units/department-of-economics) in November 2026, where my advisors were [Sule Alan](https://www.sulealan.com) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/).
 
 My research interests are in economics of education, social networks, and field experiments. 
 
