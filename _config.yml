@@ -1,5 +1,5 @@
 title: Yusuf Agus
-email: yusuf.agus@eui.eu
+email: yusuf.agus@aalto.fi
 description: >-
   Personal website of Yusuf Agus, Postdoctoral Researcher in Economics at Aalto University.
 baseurl: ""
@@ -24,18 +24,18 @@ author:
   avatar: "/assets/images/profile_square.jpeg"
   location: "Espoo, Finland"
   links:
-    - label: "Email (EUI)"
+    - label: "Email (Aalto)"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:yusuf.agus@eui.eu"
+      url: "mailto:yusuf.agus@aalto.fi"
     - label: "Email (Gmail)"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yusufagus@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yusuf-agu%C5%9F/"
-    - label: "EUI Page"
+    - label: "Aalto Page"
       icon: "fas fa-fw fa-university"
-      url: "https://www.eui.eu/people?id=yusuf-agus"
+      url: "https://www.aalto.fi/en/department-of-economics/yusuf-agus"
 
 # Defaults
 defaults:
